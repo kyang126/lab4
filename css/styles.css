@@ -10,10 +10,9 @@ the browser default styles before applying their own */
 
 @media screen and (max-width: 767px) {
     /* styles to apply on very narrow screens */
-.carousel {
-	display:none;
-}
-
+	.carousel {
+		display:none;
+	}
 }
 
 footer {
